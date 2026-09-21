@@ -5,3 +5,5 @@ faiss-cpu
 requests
 PyPDF2
 gunicorn
+pytesseract
+pillow
